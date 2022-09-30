@@ -1,4 +1,4 @@
-package demo.netty;
+package demo.io;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

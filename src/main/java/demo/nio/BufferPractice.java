@@ -1,4 +1,4 @@
-package demo.netty;
+package demo.nio;
 
 import java.io.ByteArrayOutputStream;
 import java.io.FileInputStream;
