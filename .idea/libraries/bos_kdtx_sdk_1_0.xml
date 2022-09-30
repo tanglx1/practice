@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bos-kdtx-sdk-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/demo/netty/bos-kdtx-sdk-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
